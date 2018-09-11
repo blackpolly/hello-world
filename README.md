@@ -1,2 +1,6 @@
 # hello-world
-hayallere atılan ilk adım
+merhaba
+bilgisayar yazılım konusunda kendimi gelişti
+geliştirip gelecek nesillere bilgisayarın 
+önemini göstermek istiyorum...
+
